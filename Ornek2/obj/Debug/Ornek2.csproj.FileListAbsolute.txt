@@ -1,0 +1,13 @@
+C:\COBAN\25Subat2023\26Subat2023\26Subat\Ornek2\obj\Debug\Ornek2.csproj.AssemblyReference.cache
+C:\COBAN\25Subat2023\26Subat2023\26Subat\Ornek2\obj\Debug\Ornek2.csproj.SuggestedBindingRedirects.cache
+C:\COBAN\25Subat2023\26Subat2023\26Subat\Ornek2\obj\Debug\Ornek2.Main.resources
+C:\COBAN\25Subat2023\26Subat2023\26Subat\Ornek2\obj\Debug\Ornek2.Properties.Resources.resources
+C:\COBAN\25Subat2023\26Subat2023\26Subat\Ornek2\obj\Debug\Ornek2.csproj.GenerateResource.cache
+C:\COBAN\25Subat2023\26Subat2023\26Subat\Ornek2\obj\Debug\Ornek2.csproj.CoreCompileInputs.cache
+C:\COBAN\25Subat2023\26Subat2023\26Subat\Ornek2\bin\Debug\Ornek2.exe.config
+C:\COBAN\25Subat2023\26Subat2023\26Subat\Ornek2\bin\Debug\Ornek2.exe
+C:\COBAN\25Subat2023\26Subat2023\26Subat\Ornek2\bin\Debug\Ornek2.pdb
+C:\COBAN\25Subat2023\26Subat2023\26Subat\Ornek2\obj\Debug\Ornek2.exe
+C:\COBAN\25Subat2023\26Subat2023\26Subat\Ornek2\obj\Debug\Ornek2.pdb
+C:\COBAN\25Subat2023\26Subat2023\26Subat\Ornek2\obj\Debug\Ornek2.frmAsalSayi.resources
+C:\COBAN\25Subat2023\26Subat2023\26Subat\Ornek2\obj\Debug\Ornek2.frmKareKok.resources
